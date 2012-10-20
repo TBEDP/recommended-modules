@@ -1,6 +1,6 @@
 推荐模块列表
 ======
-看官方的模块列表也会让你眼花缭乱，所以我们整理一份我们推荐的模块列表。按解决方案分类。
+看官方的[模块列表](https://github.com/joyent/node/wiki/modules)也会让你眼花缭乱，所以我们整理一份我们推荐的模块列表。按解决方案分类。
 
 - Web框架
     - connect
@@ -12,6 +12,8 @@
 - 数据访问
     - mongoskin
     - redis/mredis
+- 日志
+    - logfilestream 
 - 测试
     - 测试框架
         - mocha
