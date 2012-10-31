@@ -6,7 +6,7 @@
     - <https://github.com/windyrobin/iFrame/blob/master/style.md>
 - Web框架
     - connect
-        - [connect-mredis](https://github.com/dead-horse/connect-mredis),基于mredis的session存储   
+        - [connect-mredis](https://github.com/dead-horse/connect-mredis)，基于mredis的session存储   
         - connect-render
         - response-cookie
         - response-patch
@@ -18,7 +18,7 @@
 - 数据访问
     - mongoskin
     - redis
-    - [mredis](https://github.com/dead-horse/multi_redis),管理连接多个redis服务，消除redis的单点问题。多写单读，提供请求超时处理
+    - [mredis](https://github.com/dead-horse/multi_redis)，管理连接多个redis服务，消除redis的单点问题。多写单读，提供请求超时处理
     - MySQL: [easymysql](https://github.com/aleafs/easymysql)，主从自动判断，异常支持相当完备
 - 日志
     - logfilestream 
