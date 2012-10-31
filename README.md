@@ -16,6 +16,7 @@
 - 数据访问
     - mongoskin
     - redis/mredis
+    - [easymysql](https://github.com/aleafs/easymysql)，主从自动判断，异常支持相当完备
 - 日志
     - logfilestream 
 - 测试
@@ -33,8 +34,10 @@
         - benchmark
     - 自动化测试
         - webghost
+    - 网络异常，服务模拟
+        - [interceptor](https://github.com/dead-horse/interceptor)，提供真实服务与客户端之间的代理，模拟网络阻塞和请求截断。
 - 多进程管理
-    - node-cluster/pm
+    - [pm(node-cluster)](https://github.com/aleafs/pm)
 - 并发流控
     - bagpipe
 - 时间处理
