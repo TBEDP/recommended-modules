@@ -2,6 +2,8 @@
 ======
 看官方的[模块列表](https://github.com/joyent/node/wiki/modules)也会让你眼花缭乱，所以我们整理一份我们推荐的模块列表。按解决方案分类。
 
+- 编码规范
+    - <https://github.com/windyrobin/iFrame/blob/master/style.md>
 - Web框架
     - connect
         - [connect-mredis](https://github.com/dead-horse/connect-mredis),基于mredis的session存储   
