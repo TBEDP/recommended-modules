@@ -22,6 +22,7 @@
     - MySQL: [easymysql](https://github.com/aleafs/easymysql)，主从自动判断，异常支持相当完备
 - 日志
     - logfilestream 
+    - [`filelog`](https://github.com/aleafs/filelog)，支持日志自定义格式、日志分级、按时间切割，可被哈勃监控的异常日志
 - 测试
     - 测试框架
         - mocha
