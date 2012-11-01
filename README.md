@@ -18,8 +18,8 @@
 - 数据访问
     - mongoskin
     - redis
-    - [mredis](https://github.com/dead-horse/multi_redis)，管理连接多个redis服务，消除redis的单点问题。多写单读，提供请求超时处理
-    - MySQL: [easymysql](https://github.com/aleafs/easymysql)，主从自动判断，异常支持相当完备
+    - [`mredis`](https://github.com/dead-horse/multi_redis)，管理连接多个redis服务，消除redis的单点问题。多写单读，提供请求超时处理
+    - MySQL: [`easymysql`](https://github.com/aleafs/easymysql)，主从自动判断，异常支持相当完备
 - 日志
     - logfilestream 
     - [`filelog`](https://github.com/aleafs/filelog)，支持日志自定义格式、日志分级、按时间切割，可被哈勃监控的异常日志
@@ -39,9 +39,9 @@
     - 自动化测试
         - webghost
     - 网络异常，服务模拟
-        - [interceptor](https://github.com/dead-horse/interceptor)，提供真实服务与客户端之间的代理，模拟网络阻塞和请求截断。
+        - [`interceptor`](https://github.com/dead-horse/interceptor)，提供真实服务与客户端之间的代理，模拟网络阻塞和请求截断。
 - 多进程管理
-    - [pm(node-cluster)](https://github.com/aleafs/pm)，大家都在用，不细说
+    - [`pm`(node-cluster)](https://github.com/aleafs/pm)，大家都在用，不细说
 - 并发流控
     - bagpipe
 - 时间处理
