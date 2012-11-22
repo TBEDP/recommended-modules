@@ -33,7 +33,7 @@
     - Mock工具
         - rewire
     - 覆盖率
-        - visionmedia-jscoverage 
+        - jscover
     - 性能测试
         - benchmark
     - 自动化测试
